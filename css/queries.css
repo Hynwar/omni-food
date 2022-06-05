@@ -122,6 +122,7 @@
   /* MOBILE NAVIGATION */
   .btn-mobile-nav {
     display: block;
+    z-index: 99;
   }
 
   .main-nav {
